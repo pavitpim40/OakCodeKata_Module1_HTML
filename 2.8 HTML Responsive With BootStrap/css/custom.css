@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+html{
+    font-size:8px;
+}
+
+body{
+    background: #DCEBFC;
+    font-family: "Roboto";
+}
+.container{
+    background: #FFF;
+    padding: 10rem
+}
+h1,h2,h3{
+    color:#4F85D7;
+}
+.footer{
+    font-family: 'Roboto';
+}
+ 
+.front-icon{
+    display:block;
+    color:#FFFFFF;
+    padding:3rem;
+    background:#4F85D7;
+}
+ 
+.front-icon i{
+    font-size: 10rem;
+}
+ 
+.bg-primary{
+    background: #4F85D7 !important;
+}
